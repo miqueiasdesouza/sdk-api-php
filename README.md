@@ -1,6 +1,7 @@
 # SDK PHP TagPlus
 
 A SDK facilita a integração com a nossa API do ERP, principalmente nas etapas de autenticação.
+Código Original: TagPlus/sdk-api-php
 
 ## Requisitos
 
@@ -12,7 +13,7 @@ A SDK facilita a integração com a nossa API do ERP, principalmente nas etapas 
 Vamos instalar a SDK via Composer:
 
 ```bash
-composer require tagplus/sdk-api-php
+composer require miqueiasdesouza/tagplus
 ```
 
 ## Como usar
